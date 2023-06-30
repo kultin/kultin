@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Andrey 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">Inspired by JS/TS 😄 </h3>
+
+[![codewars](https://www.codewars.com/users/kultin/badges/small)](https://www.codewars.com/users/kultin) 
 
 <!--
 **kultin/kultin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
